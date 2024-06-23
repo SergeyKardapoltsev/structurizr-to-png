@@ -1,0 +1,9 @@
+{
+    "elements": [
+        {"id": "1", "name": "Element 1"},
+        {"id": "2", "name": "Element 2"}
+    ],
+    "relationships": [
+        {"sourceId": "1", "destinationId": "2", "description": "connects to"}
+    ]
+}
