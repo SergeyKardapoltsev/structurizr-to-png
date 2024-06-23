@@ -1,5 +1,5 @@
 # Используем официальный образ Python
-FROM python:3.9-slim
+FROM python:3.8.10-slim
 
 # Устанавливаем Graphviz
 RUN apt-get update && apt-get install -y graphviz
